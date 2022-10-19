@@ -17,10 +17,10 @@ Datasheet utilizado de kaggle
 	https://www.kaggle.com/datasets/iamsouravbanerjee/planet-dataset
 
 Repositorio
-
+	https://github.com/DavidRojasChavarriaUNA/ai-tarea2
 Sitio web
 Podrá acceder al sitio web de la Tarea II en la siguiente dirección web:
-	https://proyecto-i-ai-david-rojas.netlify.app/
+	https://ai-tarea2-david-rojas.netlify.app/
 	
 para instalar el proyecto ejecutar el comando
 npm i
